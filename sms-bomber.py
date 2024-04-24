@@ -1,3 +1,5 @@
+while True:
+    input("[Tools off!]")
 import getpass
 import os
 try:
